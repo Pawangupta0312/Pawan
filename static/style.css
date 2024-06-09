@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+:root{
+    --color1: #d4a762 ;
+    --color2: #fffcf8 ;
+}
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar-brand{
+    color: var(--color1);
+    font-family: "Playball", cursive ;
+    font-size: 2rem
+}
+.navbar{
+    background-color: var(--color1);
+}
+.book-now{
+    background-color: var(--color1);
+    color: black;
+    border: none;
+}
+.nav-line{
+    font-size: 1.3rem;
+}
+.hero-img{
+    width: 100%;
+    object-fit: contain;
+}
+.banner{
+    background-color: var(--color2);
+}
+.button{
+    border: 1px solid black;
+}
+.pawan{
+    font-family: "Playball", cursive;
+     font: size 4rem;
+}
+.icone-box{
+    background-color: var(--color1);
+    
+}
+.icone-box1{
+    background-color: var(--color1);
+}
+.icone-box2{
+    background-color: var(--color1);
+}
+.button-box{
+    border-color: var(--color1);
+    
+}
+.class-box{
+    background-color: var(--color1);
+}
+.cake-box{
+    font-size: 3rem;
+}
+.btn-box{
+    background-color: var(--color1);
+}
+.img-box{
+    height: 300px;
+    width: 300px;
+
+}
+.xyz{
+    background-image: url(./images/background-site.jpg);
+}
+.ncc{
+    background-color: var(--color2);
+}
+.icone-box3{
+    color: var(--color1);
+}
